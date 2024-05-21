@@ -20,6 +20,6 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person [Name: " + name + "]";
+        return "Person [Name: " + name + ", address: " + address + ", phoneNumber: " + phoneNumber + ", email: " + email + "]";
     }
 }
